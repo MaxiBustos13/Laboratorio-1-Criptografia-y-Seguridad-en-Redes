@@ -13,4 +13,4 @@ Para ejecutar la actividad 2 se tiene que ejecutar el siguiente comando:
 
 Para ejecutar la actividad 3 se tiene que ejecutar el siguiente comando:
 
-`sudo python3 readve.py cesar.pcapng`
+`sudo python3 readv2.py cesar.pcapng`
